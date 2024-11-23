@@ -1,0 +1,12 @@
+.city-items-favorite a{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+li.city-items-letter-group {
+    font-weight: bold;
+}
+
+ul.city-item-list a {
+    margin-left: 5px;
+}

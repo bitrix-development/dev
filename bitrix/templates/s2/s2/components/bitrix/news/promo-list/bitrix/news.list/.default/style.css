@@ -1,0 +1,10 @@
+.reviews-recent-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 2px;
+    flex-wrap: wrap;
+}
+.reviews-recent-item p {
+    width: 300px;
+}
